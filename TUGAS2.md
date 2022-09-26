@@ -3,10 +3,9 @@
 ---
 
 > **Nama Kelompok:**
-
-1. Futra S Hutasoit (2010131210002)
-2. Muhammad Iman Rizqullah (2010131210017)
-3. Muhammad Riza Nugroho (2010131210005)
+> 1. Futra S Hutasoit (2010131210002)
+> 2. Muhammad Iman Rizqullah (2010131210017)
+> 3. Muhammad Riza Nugroho (2010131210005)
    
 ---
 
