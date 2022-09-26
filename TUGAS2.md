@@ -1,5 +1,4 @@
 # TUGAS 2 Administrasi Sistem
----
 
 > **Nama Kelompok:**
 > 1. Futra S Hutasoit (2010131210002)
@@ -7,7 +6,7 @@
 > 3. Muhammad Riza Nugroho (2010131210005) 
 
 ## Membuat Client-Server Manual
----
+
 **1. Client Server pada Linux Virtual Box dengan Windows**
 + Langkah pertama buka Linuxnya di VirtualBox kemudian masuk ke super user dengan command “su” dan masukkan password Linuxnya. Jika authentication failure silahkan menggunakan command “sudo -i” dan masukkan password Linuxnya.
 ![Jawaban No.1](Jawaban1.png)
@@ -20,6 +19,7 @@
 ![Jawaban No.1](Jawaban1(3).png)
 
 + Setelah melakukan tahap yang di atas, sekarang buka linuxnya dan jalankan comman “ip a” maka ip address yang sudah kita buat tadi akan tampil.
++ 
 ![Jawaban No.1](Jawaban1(4).png)
 ![Jawaban No.1](Jawaban1(5).png)
 
