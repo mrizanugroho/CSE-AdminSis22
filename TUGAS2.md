@@ -19,11 +19,11 @@
 ![Jawaban No.1](Jawaban1(3).png)
 
 + Setelah melakukan tahap yang di atas, sekarang buka linuxnya dan jalankan comman “ip a” maka ip address yang sudah kita buat tadi akan tampil.
-+ 
 ![Jawaban No.1](Jawaban1(4).png)
 ![Jawaban No.1](Jawaban1(5).png)
 
 + Setelah itu buka VirtualBox lalu klik Host Network Manager lalu create host baru. Setelah menambahkan host buka properties dan klik adapter, karena kita menyettingnya secara manual jadi kita konfigurasi adapternya secara manual juga. Untuk IPv4 Addressnya isi sesuai ip getaway dan Ipv4 Network Mask yang kita buat di linux tadi. Jika anda mengikuti langkah-langkah sama dengan yang saya buat silahkan untuk disesuaikan dengan gambar jika sudah apply.
+
 ![Jawaban No.1](Jawaban1(5).png)
 ![Jawaban No.1](Jawaban1(6).png)
 
