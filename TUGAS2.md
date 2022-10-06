@@ -15,7 +15,7 @@
 ![Jawaban No.1](Jawaban1(1).png)
 ![Jawaban No.1](Jawaban1(2).png)
 
-+ <p style='text-align: justify;'>Karena kita akan menyetting secara manual jadi pilih yang manual. Untuk addresses sebagai percobaan sesuaikan saja dengan gambar atau bisa juga ip jaringannya diganti susuai keinginan. Perlu di perhatikan untuk ip jaringan address dan gatewaysebaiknya disamakan saja, pada gambar saya membuatnya 10 kemudian apply.</p>
++ <p style='text-align: justify;'>Karena kita akan menyetting secara manual jadi pilih yang manual. Untuk addresses sebagai percobaan sesuaikan saja dengan gambar atau bisa juga ip jaringannya diganti susuai keinginan. Perlu di perhatikan untuk ip jaringan address dan gateway sebaiknya disamakan saja, pada gambar saya membuatnya 10 kemudian apply.</p>
 ![Jawaban No.1](Jawaban1(3).png)
 
 + <p style='text-align: justify;'>Setelah melakukan tahap yang di atas, sekarang buka linuxnya dan jalankan comman “ip a” maka ip address yang sudah kita buat tadi akan tampil.</p>
@@ -34,7 +34,7 @@
 ![Jawaban No.1](Jawaban1(9).png)
 ![Jawaban No.1](Jawaban1(10).png)
 
-+ <p style='text-align: justify;'>Pilih yang Use the Following IP Address lalu isi IP addres dengan getaway yang di linux tadi dan default getaway isi dengan IP Address yang ada di Linux, untuk subnet mask disamakan saja.subnet mask disamakan saja.</p>
++ <p style='text-align: justify;'>Pilih yang Use the Following IP Address lalu isi IP addres dengan getaway yang di linux tadi dan default getaway isi dengan IP Address yang ada di Linux, untuk subnet mask disamakan saja.</p>
 ![Jawaban No.1](Jawaban1(11).png)
 + <p style='text-align: justify;'>Untuk mengetahui berhasil atau tidaknya, ping ip windows di linux dengan cara “ping (IP Address windos)”. Supaya bisa berjalan pastikan fire wall & network protection dinonaktifkan.</p>
 ![Jawaban No.1](Jawaban1(12).png)
