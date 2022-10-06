@@ -18,7 +18,7 @@
 + <p style='text-align: justify;'>Karena kita akan menyetting secara manual jadi pilih yang manual. Untuk addresses sebagai percobaan sesuaikan saja dengan gambar atau bisa juga ip jaringannya diganti susuai keinginan. Perlu di perhatikan untuk ip jaringan address dan gateway sebaiknya disamakan saja, pada gambar saya membuatnya 10 kemudian apply.</p>
 ![Jawaban No.1](Jawaban1(3).png)
 
-+ <p style='text-align: justify;'>Setelah melakukan tahap yang di atas, sekarang buka linuxnya dan jalankan comman “ip a” maka ip address yang sudah kita buat tadi akan tampil.</p>
++ <p style='text-align: justify;'>Setelah melakukan tahap yang di atas, sekarang buka linuxnya dan jalankan command “ip a” maka ip address yang sudah kita buat tadi akan tampil.</p>
 ![Jawaban No.1](Jawaban1(4).png)
 ![Jawaban No.1](Jawaban1(5).png)
 
